@@ -2,456 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be68c11e-080b-4143-a715-babc79536805" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jumpserver01/urls.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_inbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_inbox_compose.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_inbox_inbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_inbox_reply.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_inbox_view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_todo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/app_todo_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_amcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_echarts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_flotcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_flowchart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_google.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_highcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_highmaps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_highstock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/charts_morris.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_bootstrap_fileinput.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_bootstrap_maxlength.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_bootstrap_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_bootstrap_select_splitter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_bootstrap_switch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_bootstrap_tagsinput.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_bootstrap_touchspin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_code_editors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_color_pickers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_context_menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_date_time_pickers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_editors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_form_tools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_ion_sliders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_knob_dials.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_multi_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_noui_sliders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_select2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/components_typeahead.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/dashboard_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/dashboard_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ecommerce_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ecommerce_orders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ecommerce_orders_view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ecommerce_products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ecommerce_products_edit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/elements_lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/elements_ribbons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/elements_steps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_controls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_controls_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_dropzone.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_editable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_fileupload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_icheck.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_image_crop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_input_mask.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_layouts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_validation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_validation_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_validation_states_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/form_wizard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/maps_google.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/maps_vector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_blog_post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_invoice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_invoice_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_portfolio_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_portfolio_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_portfolio_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_portfolio_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_pricing_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_search_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_search_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_search_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_general_search_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_system_404_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_system_404_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_system_404_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_system_500_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_system_500_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_system_coming_soon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_lock_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_lock_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_login_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_login_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_login_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_login_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_login_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_login_6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_profile_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_profile_1_account.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_profile_1_help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/page_user_profile_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_ajax_content_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_ajax_content_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_ajax_content_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_ajax_content_error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_boxed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_draggable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_light.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/portlet_solid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_colreorder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_editable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_fixedheader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_managed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_rowreorder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_datatables_scroller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_static_basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/table_static_responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_alerts_api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_blockui.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_bootbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_bootstrap_growl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_colors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_confirmations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_datepaginator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_extended_modals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_extended_modals_ajax_sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_general.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_idle_timeout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_modals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_modals_ajax_sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_nestable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_notific8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_page_progress_style_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_page_progress_style_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_session_timeout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_socicons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_tabs_accordions_navs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_tiles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_timeline.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_toastr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6/ui_typography.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_inbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_inbox_compose.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_inbox_inbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_inbox_reply.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_inbox_view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_todo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/app_todo_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_amcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_echarts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_flotcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_flowchart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_google.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_highcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_highmaps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_highstock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/charts_morris.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_bootstrap_fileinput.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_bootstrap_maxlength.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_bootstrap_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_bootstrap_select_splitter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_bootstrap_switch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_bootstrap_tagsinput.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_bootstrap_touchspin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_code_editors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_color_pickers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_context_menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_date_time_pickers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_editors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_form_tools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_ion_sliders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_knob_dials.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_multi_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_noui_sliders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_select2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/components_typeahead.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/dashboard_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/dashboard_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ecommerce_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ecommerce_orders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ecommerce_orders_view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ecommerce_products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ecommerce_products_edit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/elements_lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/elements_ribbons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/elements_steps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_controls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_controls_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_dropzone.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_editable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_fileupload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_icheck.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_image_crop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_input_mask.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_layouts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_validation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_validation_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_validation_states_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/form_wizard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/maps_google.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/maps_vector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_blog_post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_invoice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_invoice_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_portfolio_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_portfolio_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_portfolio_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_portfolio_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_pricing_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_search_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_search_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_search_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_general_search_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_system_404_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_system_404_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_system_404_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_system_500_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_system_500_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_system_coming_soon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_lock_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_lock_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_login_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_login_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_login_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_login_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_login_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_login_6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_profile_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_profile_1_account.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_profile_1_help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/page_user_profile_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_ajax_content_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_ajax_content_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_ajax_content_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_ajax_content_error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_boxed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_draggable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_light.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/portlet_solid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_colreorder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_editable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_fixedheader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_managed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_rowreorder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_datatables_scroller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_static_basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/table_static_responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_alerts_api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_blockui.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_bootbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_bootstrap_growl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_colors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_confirmations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_datepaginator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_extended_modals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_extended_modals_ajax_sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_general.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_idle_timeout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_modals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_modals_ajax_sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_nestable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_notific8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_page_progress_style_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_page_progress_style_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_session_timeout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_socicons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_tabs_accordions_navs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_tiles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_timeline.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_toastr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_material_design/ui_typography.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_calendar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_inbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_inbox_compose.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_inbox_inbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_inbox_reply.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_inbox_view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_todo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/app_todo_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_amcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_echarts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_flotcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_flowchart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_google.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_highcharts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_highmaps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_highstock.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/charts_morris.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_bootstrap_fileinput.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_bootstrap_maxlength.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_bootstrap_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_bootstrap_select_splitter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_bootstrap_switch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_bootstrap_tagsinput.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_bootstrap_touchspin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_code_editors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_color_pickers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_context_menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_date_time_pickers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_editors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_form_tools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_ion_sliders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_knob_dials.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_multi_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_noui_sliders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_select2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/components_typeahead.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/dashboard_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/dashboard_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ecommerce_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ecommerce_orders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ecommerce_orders_view.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ecommerce_products.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ecommerce_products_edit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/elements_lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/elements_ribbons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/elements_steps.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_controls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_controls_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_dropzone.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_editable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_fileupload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_icheck.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_image_crop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_input_mask.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_layouts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_validation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_validation_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_validation_states_md.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/form_wizard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/maps_google.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/maps_vector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_blog_post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_invoice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_invoice_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_portfolio_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_portfolio_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_portfolio_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_portfolio_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_pricing_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_search_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_search_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_search_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_general_search_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_system_404_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_system_404_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_system_404_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_system_500_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_system_500_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_system_coming_soon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_lock_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_lock_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_login_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_login_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_login_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_login_4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_login_5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_login_6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_profile_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_profile_1_account.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_profile_1_help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/page_user_profile_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_ajax_content_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_ajax_content_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_ajax_content_3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_ajax_content_error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_boxed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_draggable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_light.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/portlet_solid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_colreorder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_editable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_fixedheader.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_managed.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_rowreorder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_datatables_scroller.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_static_basic.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/table_static_responsive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_alerts_api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_blockui.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_bootbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_bootstrap_growl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_colors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_confirmations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_datepaginator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_extended_modals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_extended_modals_ajax_sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_general.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_icons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_idle_timeout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_modals.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_modals_ajax_sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_nestable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_notific8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_page_progress_style_1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_page_progress_style_2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_session_timeout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_socicons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_tabs_accordions_navs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_tiles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_timeline.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_toastr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_tree.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/metronic/admin_6_rounded/ui_typography.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Py3Pro.iml" afterPath="$PROJECT_DIR$/.idea/Py3Pro.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jumpserver01/views.py" afterPath="$PROJECT_DIR$/jumpserver01/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Py3Pro/settings.py" afterPath="$PROJECT_DIR$/Py3Pro/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -466,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Py3Pro/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jumpserver01/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding>
                 <element signature="e#58#112#0" expanded="true" />
               </folding>
@@ -481,8 +43,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jumpserver01/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding>
                 <element signature="e#58#90#0" expanded="true" />
               </folding>
@@ -490,7 +52,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Py3Pro/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -500,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table_static_basic.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="table_static_basic.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/table_static_basic.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -533,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Py3Pro/settings.py" />
         <option value="$PROJECT_DIR$/scripts/py/colletor.py" />
         <option value="$PROJECT_DIR$/scripts/py/collecter.py" />
         <option value="$PROJECT_DIR$/scripts/py/test.py" />
@@ -546,6 +117,8 @@
         <option value="$PROJECT_DIR$/templates/login/login.html" />
         <option value="$PROJECT_DIR$/templates/table_static_basic.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/Py3Pro/settings.py" />
+        <option value="$PROJECT_DIR$/Py3Pro/urls.py" />
       </list>
     </option>
   </component>
@@ -1155,22 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Py3Pro/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Py3Pro/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/table/table_static_basic.html" />
     <entry file="file://$PROJECT_DIR$/templates/login/login.html" />
     <entry file="file://$PROJECT_DIR$/scripts/py/test.py">
@@ -1183,10 +740,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Py3Pro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jumpserver01/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding>
             <element signature="e#58#112#0" expanded="true" />
           </folding>
@@ -1195,15 +760,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jumpserver01/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding>
             <element signature="e#58#90#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/table_static_basic.html">
+    <entry file="file://$PROJECT_DIR$/Py3Pro/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
@@ -1211,7 +784,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/templates/table_static_basic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
